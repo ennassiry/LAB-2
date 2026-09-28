@@ -18,10 +18,6 @@
 
 # 📌 Exercice 1 — Longueur de la LIS
 
-## 🎯 Objectif
-
-Écrire une fonction `longueurLIS()` permettant de calculer la longueur de la **plus longue sous-séquence croissante** (*Longest Increasing Subsequence*).
-
 ### 🔹 Fonction `longueurLIS`
 
 ![Fonction longueurLIS](https://github.com/user-attachments/assets/9015037d-e82d-4e3b-8363-6915ff42c052)
